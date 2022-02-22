@@ -1,0 +1,21 @@
+html,
+body {
+    height: 100%;
+    
+}
+
+.container {
+    height: 100%;
+    width: 100%;
+}
+
+.col-md-4 {
+    border: black;
+    border-style: double;
+    background-color: brown;
+}
+
+h2 {
+    text-align: center;
+    margin: auto;
+}
